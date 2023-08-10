@@ -8,3 +8,5 @@ Useful commands:
 - kubectl get pods
 - kubectl get services
 - kubectl ip
+- kubectl describe <object type> <object name>
+- kubectl describe pods client-pod
