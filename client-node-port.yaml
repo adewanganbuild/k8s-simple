@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: cleint-node-port
+  name: client-node-port
 spec:
   type: NodePort
   ports:
